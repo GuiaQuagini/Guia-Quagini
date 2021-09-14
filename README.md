@@ -1,4 +1,4 @@
-# Guia-Quagini
+# Bitcoin Forecast
 IE Student
 
 Using Bitcoin data and exogenous variables (from Google Trends search patterns extra Bitcoin information), 
